@@ -1,0 +1,6 @@
+﻿  LAb3.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+d:\my_study\semester_5\abc\lab3\lab3\lab3.cpp(10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\my_study\semester_5\abc\lab3\lab3\lab3.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+d:\my_study\semester_5\abc\lab3\lab3\lab3.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+  LAb3.vcxproj -> D:\My_study\Semester_5\ABC\LAb3\Debug\LAb3.exe
